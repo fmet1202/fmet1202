@@ -62,5 +62,5 @@ My work includes low-level programming in **C**, backend services, and security-
 
 ## Contact
 
-- LinkedIn: (add your link)  
-- Email: (optional)
+- LinkedIn: www.linkedin.com/in/fiseha-mengistu
+- Email: fmet1202@gmail.com
