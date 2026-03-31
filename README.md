@@ -48,9 +48,9 @@ My work includes low-level programming in **C**, backend services, and security-
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=fmet1202&show_icons=true&cache_seconds=86400)
+![Stats](https://github-readme-stats.vercel.app/api?username=fmet1202&show_icons=true&theme=github_dark&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fmet1202&layout=compact&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fmet1202&layout=compact&theme=github_dark&cache_seconds=86400)
 
 ---
 
