@@ -41,6 +41,10 @@ Personalized learning system using NLP and recommendation logic tailored for Eth
 
 ---
 
+## Contribution Activity
+
+![Snake animation](https://github.com/fmet1202/fmet1202/blob/output/github-snake.svg)
+
 ## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=fmet1202\&show_icons=true\&cache_seconds=86400)
