@@ -1,4 +1,5 @@
-# Fiseha
+![Banner](./banner.png)
+# Fiseha Mengistu
 
 Cybersecurity Engineering student focused on secure systems, backend development, and applied cryptography.
 
@@ -51,13 +52,6 @@ Personalized learning system using NLP and recommendation logic tailored for Eth
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fmet1202\&layout=compact\&cache_seconds=86400)
 
----
-
-## Contribution Activity
-
-![Snake animation](https://github.com/fmet1202/fmet1202/blob/output/github-snake.svg)
-
----
 
 ## Contact
 
