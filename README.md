@@ -1,4 +1,5 @@
 ![Banner](./banner.png)
+
 # Fiseha Mengistu
 
 Cybersecurity Engineering student focused on secure systems, backend development, and applied cryptography.
@@ -7,38 +8,49 @@ Cybersecurity Engineering student focused on secure systems, backend development
 
 ## About
 
-I build systems with a strong emphasis on security, performance, and correctness.
-My work includes low-level programming in C, backend services, and security-focused applications.
+I build systems with a strong emphasis on **security, performance, and correctness**.  
+My work includes low-level programming in **C**, backend services, and security-focused applications.
 
-* Focus areas: system security, authentication, secure storage
-* Currently building: AI-powered study assistant for Ethiopian students
-* Goal: Security Engineer / Red Teaming
+- 🔐 Focus areas: system security, authentication, secure storage  
+- 🤖 Currently building: AI-powered study assistant for Ethiopian students  
+- 🎯 Goal: Security Engineer / Red Teaming  
 
 ---
 
 ## Tech Stack
 
-**Languages**
-C, Python, JavaScript
+**Languages:** C, Python, JavaScript  
 
-**Systems & Security**
-Linux, Bash, OpenSSL, Cryptography fundamentals
+**Systems & Security:** Linux, Bash, OpenSSL, Cryptography fundamentals  
 
-**Backend & Database**
-Node.js, PostgreSQL
+**Backend & Database:** Node.js, PostgreSQL  
 
 ---
 
 ## Projects
 
-**Secure Password Vault**
-Encrypted credential storage using OpenSSL with PostgreSQL integration. Designed with secure authentication and data protection in mind.
+### Secure Password Vault
+- **Problem:** Users need safe storage for sensitive credentials  
+- **Solution:** Encrypted credential storage using OpenSSL with PostgreSQL integration  
+- **Key Skills:** Encryption, authentication, database design  
 
-**HTTP Web Server in C**
-Custom-built server handling routing, requests, and basic authentication at a low level.
+### HTTP Web Server in C
+- **Problem:** Learn low-level networking & server design  
+- **Solution:** Custom-built server handling routing, requests, and basic authentication  
+- **Key Skills:** Sockets, C programming, low-level system operations  
 
-**AI Study Assistant (In Progress)**
-Personalized learning system using NLP and recommendation logic tailored for Ethiopian students.
+### AI Study Assistant (In Progress)
+- **Problem:** Ethiopian students struggle with large class sizes and personalized learning  
+- **Solution:** AI-powered recommendation and study system using NLP and logic  
+- **Key Skills:** Python, AI, NLP, backend design  
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=fmet1202&show_icons=true&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fmet1202&layout=compact&cache_seconds=86400)
 
 ---
 
@@ -46,15 +58,9 @@ Personalized learning system using NLP and recommendation logic tailored for Eth
 
 ![Snake animation](https://github.com/fmet1202/fmet1202/blob/output/github-snake.svg)
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=fmet1202\&show_icons=true\&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fmet1202\&layout=compact\&cache_seconds=86400)
-
+---
 
 ## Contact
 
-LinkedIn: www.linkedin.com/in/fiseha-mengistu
-Email: fmet1202@gmail.com
-
+- LinkedIn: (add your link)  
+- Email: (optional)
